@@ -3,7 +3,7 @@
 
 - 🎓 At present Studying at **Indian Institute of Information Technology, Surat.**
 
-- 👨‍💻 Design portfolio (https://dribbble.com/iamoo7)
+- 👨‍💻 Design portfolio https://dribbble.com/iamoo7
 
 - 📫 How to reach me **ns991989@gmail.com**
 
