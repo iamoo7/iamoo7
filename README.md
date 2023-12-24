@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Singh---@iamoo7</h1>
 <h3 align="center">A passionate frontend engineer from India.</h3>
 
-- 🎓 At present Studying at **Indian Institute of Information Technology, Surat.**
+- 🎓 Graduation from **Indian Institute of Information Technology, Surat.**
 
 - 👨‍💻 Design portfolio https://dribbble.com/iamoo7
 
