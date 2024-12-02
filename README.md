@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nishant Singh --- @iamoo7</h1> <h3 align="center">A passionate UX Designer from India.</h3>
+<h1 align="center">Hi 👋, I'm Nishant Singh --- @iamoo7</h1> <h3 align="center">UI/UX designer from India</h3>
 🎓 Graduated from Indian Institute of Information Technology, Surat.
 
 🖌️ Design Portfolio: https://dribbble.com/iamoo7
